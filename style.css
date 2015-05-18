@@ -18,11 +18,16 @@ body, html {
   vertical-align: middle;
 }
 .content {
-  padding: 40px;
+  padding: 20px;
   width: 100%;
   max-width: 500px;
   margin: 0px auto;
 }
 h1 {
   line-height: 34px;
+  margin-bottom: 38px;
+}
+p {
+  font-size: 16px;
+  line-height: 26px;
 }
